@@ -27,7 +27,7 @@ global.author = "Made by"
 global.wm = "xienbot"
 global.sessionName = 'session'
 global.prefa = ['','!','.','#','&']
-global.sp = ''
+global.sp = '⭔'
 global.mess = {
     success: 'Piye?!', //ubah aja make bhs indo terserahhh karepmu
     admin: 'This feature could be used by admins only!',
